@@ -1,6 +1,6 @@
 {
   "name": "selling-lint-cli",
-  "version": "0.0.5",
+  "version": "0.0.1",
   "description": "s-lint命令行工具",
   "main": "./build",
   "scripts": {
@@ -23,8 +23,7 @@
     "s-lint",
     "command"
   ],
-  "author": "zxy25",
-  "license": "ISC",
+  "author": "aaa",
   "type": "commonjs",
   "dependencies": {
     "@babel/preset-typescript": "^7.15.0",
@@ -49,6 +48,5 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
-  },
-  "gitHead": "7805f9086587487b0d882d89356650267c7386e5"
+  }
 }

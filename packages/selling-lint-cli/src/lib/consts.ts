@@ -4,24 +4,24 @@ export const targetFile = 'private'
 
 export const eslintPackageName = 'eslint-config-selling'
 
-export const commitlintPackageName = '@jd-antelope/commitlint-config-selling'
+export const commitlintPackageName = '@mirror/commitlint-config-selling'
 
 export const stylelintPackageName = 'stylelint-config-selling'
 
 export const packageMap = {
   folderName: {
     'eslint-config-selling': 'eslint-config-selling',
-    '@jd-antelope/commitlint-config-selling': 'commitlint-config-selling',
+    '@mirror/commitlint-config-selling': 'commitlint-config-selling',
     'stylelint-config-selling': 'stylelint-config-selling'
   },
   lintType: {
     'eslint-config-selling': 'eslint',
-    '@jd-antelope/commitlint-config-selling': 'commitlint',
+    '@mirror/commitlint-config-selling': 'commitlint',
     'stylelint-config-selling': 'stylelint'
   },
   depsName: {
     'eslint-config-selling': 'eslintDeps',
-    '@jd-antelope/commitlint-config-selling': 'commitlintDeps',
+    '@mirror/commitlint-config-selling': 'commitlintDeps',
     'stylelint-config-selling': 'stylelintDeps'
   }
 }
