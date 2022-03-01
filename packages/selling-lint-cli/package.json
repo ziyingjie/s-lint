@@ -1,6 +1,6 @@
 {
   "name": "selling-lint-cli",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "s-lint命令行工具",
   "main": "./build",
   "scripts": {
